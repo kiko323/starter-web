@@ -1,4 +1,4 @@
-# Starter Web Repo
+# Starter Web Repoo
 
 Simple web project.....
 
@@ -15,3 +15,5 @@ This is .... what the hell is this?
 Simple Web project deployment paragraph
 
 ## How To Contribute
+
+How how how how how???
