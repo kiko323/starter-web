@@ -16,7 +16,7 @@ Simple Web project deployment paragraph
 
 ## How To Contribute
 
-How how how how how???
+How how how how how??? HOOOOOOOW!??!?!?
 
 ### Copyright
 
