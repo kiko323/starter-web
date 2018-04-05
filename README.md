@@ -17,3 +17,7 @@ Simple Web project deployment paragraph
 ## How To Contribute
 
 How how how how how???
+
+### Copyright
+
+2018
